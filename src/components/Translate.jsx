@@ -41,6 +41,4 @@ const Translate = () => {
   )
 };
 
-// AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms - IwDlM
-
 export default Translate
